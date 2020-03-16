@@ -18,7 +18,7 @@ If he is unavilable the order will be on hold until he is available.
 - We add delivery guy to our team.
 - We create a order, if a delivery guy is available then he will accept your order.
 - Delivery guy delivered the parcel and make him available for next booking, so if there is any pending order found, the available delivery guy will automatically take it.
--STATUS FOR ORDER : 0(Pending) 1(Accepted) 2(Delivered).
+- STATUS FOR ORDER : 0(Pending) 1(Accepted) 2(Delivered).
 
 
 ## Product Features
