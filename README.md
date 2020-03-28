@@ -36,7 +36,7 @@ If he is unavilable the order will be on hold until he is available.
 - PUT '/delivered/:id' , (delivery boy delivered the parcel)
 
 ## Setup
-- In the terminal, run `git clone https://github.com/CodingNinjasCodes/InterQues.git`.
+- In the terminal, run `git clone https://github.com/shivamyth/Bakery-Delivery.git`.
 - run `npm install`.
 - run `npm start`.
 - Now You are set to go!
